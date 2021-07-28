@@ -1,4 +1,4 @@
-package com.perscholas.java_basics;
+package org.perscholas.java_basics;
 
 public class JavaOperatorsClass {
     public static void main(String[] args) {

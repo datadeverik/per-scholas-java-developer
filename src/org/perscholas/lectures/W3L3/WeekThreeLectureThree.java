@@ -1,4 +1,4 @@
-package com.perscholas.lectures.W3L3;
+package org.perscholas.lectures.W3L3;
 
 import java.util.Scanner;
 

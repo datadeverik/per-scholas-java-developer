@@ -1,4 +1,4 @@
-package com.perscholas.java_basics;
+package org.perscholas.java_basics;
 import java.lang.Math.*;
 
 
