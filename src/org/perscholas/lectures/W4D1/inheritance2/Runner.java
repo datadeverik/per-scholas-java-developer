@@ -9,6 +9,12 @@ public class Runner {
         Cat c = new Cat("Mr. Business", 4, 1, "Sleep");
         System.out.println(c.getAge());
         System.out.println(c.getPastime());
-        c.speak();
+        c.makeNoise();
+        System.out.print("is c a cat? ");
+        System.out.println(c instanceof Cat);
+        System.out.print("is c a living thing? ");
+        System.out.println(c instanceof LivingThing);
+        System.out.print("is c a human? ");
+//        System.out.println(c instanceof Human);  // why can't this be done?
     }
 }

@@ -1,9 +1,9 @@
 package org.perscholas.lectures.W4D1.inheritance2;
 
 public class LivingThing {
-    String name;
-    int age;
-    int height;
+    private String name;
+    private int age;
+    private int height;
 
     public LivingThing(String name, int age, int height) {
         this.name = name;

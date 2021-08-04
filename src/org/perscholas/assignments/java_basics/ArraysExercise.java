@@ -1,4 +1,4 @@
-package org.perscholas.java_basics;
+package org.perscholas.assignments.java_basics;
 
 import java.util.Arrays;
 

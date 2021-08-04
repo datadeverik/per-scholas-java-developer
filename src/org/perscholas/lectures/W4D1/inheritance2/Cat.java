@@ -3,7 +3,7 @@ package org.perscholas.lectures.W4D1.inheritance2;
 public class Cat extends LivingThing{
     String pastime;
 
-    public void speak() {
+    public void makeNoise() {
         System.out.println("Meow");
     }
 

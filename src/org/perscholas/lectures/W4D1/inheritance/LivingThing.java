@@ -126,4 +126,21 @@ public class LivingThing {
     public void setCommunication(String communication) {
         this.communication = communication;
     }
+
+    @Override
+    public String toString() {
+        return "LivingThing{" +
+                "eat='" + eat + '\'' +
+                ", height=" + height +
+                ", weight=" + weight +
+                ", walk='" + walk + '\'' +
+                ", age=" + age +
+                ", vision=" + vision +
+                ", feelings='" + feelings + '\'' +
+                ", breath='" + breath + '\'' +
+                ", name='" + name + '\'' +
+                ", gender='" + gender + '\'' +
+                ", communication='" + communication + '\'' +
+                '}';
+    }
 }

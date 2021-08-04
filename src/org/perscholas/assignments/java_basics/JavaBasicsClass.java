@@ -1,5 +1,4 @@
-package org.perscholas.java_basics;
-import java.lang.Math.*;
+package org.perscholas.assignments.java_basics;
 
 
 public class JavaBasicsClass {
