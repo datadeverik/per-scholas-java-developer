@@ -1,6 +1,6 @@
 package org.perscholas.assignments.bank;
 
-public class Account {
+public abstract class Account {
     long balance;
     Customer accountOwner;
 
