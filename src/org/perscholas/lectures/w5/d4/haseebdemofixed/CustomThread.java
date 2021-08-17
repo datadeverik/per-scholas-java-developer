@@ -1,4 +1,4 @@
-package org.perscholas.lectures.w5.d4.haseebdemo;
+package org.perscholas.lectures.w5.d4.haseebdemofixed;
 
 public class CustomThread extends Thread{
     ClassWithLoop d = new ClassWithLoop();
