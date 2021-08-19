@@ -1,0 +1,21 @@
+package org.perscholas.lectures.w4.d3.exceptions.custom4;
+
+public class customExecption extends Exception {
+    String st;
+
+    public customExecption(String str)
+    {
+        super(str);
+        this.st = str;
+
+    }
+
+    public String toString()
+    {
+        return ("Custom Exception Occured: " + this.st);
+    }
+
+
+
+
+}

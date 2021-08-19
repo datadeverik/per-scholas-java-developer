@@ -1,0 +1,4 @@
+package org.perscholas.lectures.w4.d1.inheritance;
+
+public class Laptop extends NonLivingThing {
+}

@@ -1,6 +1,5 @@
 package org.perscholas.lectures.w6.d2.jdbc;
 
-import com.mysql.cj.jdbc.MysqlDataSource;
 
 import java.io.File;
 import java.sql.Connection;
